@@ -1,1 +1,10 @@
-# portfolio-demo-05  React dashboard demo  ## Overview  This repository is a sample project for a portfolio.  ## Tech Stack  - GitHub - Java / Python / JavaScript / .NET  ## Notes  This sample was created to demonstrate project structure and GitHub publishing workflow.
+# React QA Dashboard Demo
+
+A small React/Vite dashboard with fictional testing statuses, by **Sarath Panguluri**.
+
+```bash
+npm install
+npm run dev
+```
+
+Example data is illustrative, not genuine execution results. This sample was not built or tested during publication.
